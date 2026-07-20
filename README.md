@@ -46,12 +46,17 @@
 ## <img src="https://img.icons8.com/fluency/24/pin.png" width="22"/> Projetos em destaque
 
 <p align="center">
+  <a href="https://github.com/gabrielcoutinho210673-prog/Benetextil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielcoutinho210673-prog&repo=Benetextil&theme=tokyonight&hide_border=true" />
+  </a>
   <a href="https://github.com/gabrielcoutinho210673-prog/Agente-de-IA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielcoutinho210673-prog&repo=Agente-de-IA&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-> <img src="https://img.icons8.com/fluency/16/idea.png" width="14"/> Agente de IA construído com n8n e integrações via API, usado no estágio da Agência Royal para automatizar consulta e inserção de dados em sistemas externos.
+> <img src="https://img.icons8.com/fluency/16/idea.png" width="14"/> **Benetextil**: sistema completo de gestão (clientes, pedidos, estoque, PDV, financeiro) com HTML, JS, Bootstrap e Supabase (PostgreSQL + Auth + Row Level Security).
+>
+> <img src="https://img.icons8.com/fluency/16/idea.png" width="14"/> **Agente de IA**: construído com n8n e integrações via API, usado no estágio da Agência Royal para automatizar consulta e inserção de dados em sistemas externos.
 
 ## <img src="https://img.icons8.com/fluency/24/graduation-cap.png" width="22"/> Formação e certificados
 
